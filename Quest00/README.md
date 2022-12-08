@@ -7,7 +7,7 @@ You will also use the archive command `tar` and you will finish by writing your 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Ex00:**`My First File`
+**Ex00:** `My First File`
 
 + repo: `qwasar-preseason-web`
 + directory: `Quest00`
@@ -33,7 +33,7 @@ Tip
 To test if your exercise(s) is/are correct(s), you can execute the command `gandalf` in your terminal.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Ex01:**`My First File With Content`
+**Ex01:** `My First File With Content`
 
 + repo: `qwasar-preseason-web`
 + directory: `Quest00`
@@ -81,7 +81,7 @@ The terminal is the little box where you execute command at the bottom part of `
 To test if your exercise(s) is/are correct(s), you can execute the command `gandalf` in your terminal.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Ex02:**`My First File With Content And Perms`
+**Ex02:** `My First File With Content And Perms`
 
 + repo: `qwasar-preseason-web`
 + directory: `Quest00`
@@ -132,7 +132,7 @@ Tip
 To test if your exercise(s) is/are correct(s), you can execute the command `gandalf` in your terminal.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Ex03:**`My Gitaddcommitpush`
+**Ex03:** `My Gitaddcommitpush`
 
 + repo: `qwasar-preseason-web`
 + directory: `Quest00`
@@ -173,7 +173,7 @@ Extra:
 1. git status
 2. git clone
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Ex04:**`My Z`
+**Ex04:** `My Z`
 
 + repo: `qwasar-preseason-web`
 + directory: `Quest00`
