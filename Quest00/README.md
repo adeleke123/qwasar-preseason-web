@@ -4,7 +4,9 @@ Welcome to the `Shell environment` quest.
 We will dive into the environment of the famous command box. It's the Command center of the computer, very powerful but might be a little confusing at first sight.
 In this quest, you will learn how to create directories and files with the right permissions, to read the listing directory command and to git push all your exercises.
 You will also use the archive command `tar` and you will finish by writing your first script. If we compare this with learning how to play a sport, you must be able to stand up, walk and run before being able to play a sport. With this quest, you will learn how to stand up! :-)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Ex00:
 
 + repo: `Quest00`
