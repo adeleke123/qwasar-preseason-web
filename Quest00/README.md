@@ -138,7 +138,7 @@ To test if your exercise(s) is/are correct(s), you can execute the command `gand
 + directory: `Quest00`
 + file: `file`
 
-##Description
+## Description
 
 Time to Git!
 
@@ -179,7 +179,7 @@ Extra:
 + directory: `Quest00`
 + file: `my_z`
 
-##Description
+## Description
 
 Create a file called `my_z` that returns "Z", followed by a new line, whenever the command `cat` is used on it.
 ```
