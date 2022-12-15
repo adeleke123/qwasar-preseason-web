@@ -1,4 +1,4 @@
-##Js Quest01
+## Js Quest01
 
 Remember to git add && git commit && git push each exercise!
 
@@ -10,7 +10,7 @@ Folder names are provided at the beginning of each exercise under `submit direct
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Introduction
+# Introduction
 
 Studies show that the best way to learn is through immersion.
 
@@ -23,9 +23,7 @@ We will start our first job to get familiar with `web technologies`. HTML!
 Before we begin, let's refresh our memory about web servers. In order to access a webpage, we need to have a web server to `serve` it.
 
 
-
-
-
+![web_server_schema](https://user-images.githubusercontent.com/51156057/207979802-6cf0adb3-6eca-4010-b410-193eda08fa13.png)
 
 
 This means for our following assignment we will need a web server too. Luckily we have one, follow the instructions from `Static Html Page Renderer Section`.
