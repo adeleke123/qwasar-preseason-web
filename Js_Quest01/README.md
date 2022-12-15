@@ -235,6 +235,10 @@ How to have a `static html page renderer` inside Docode:
 
 0# Open your HTML file:
 
-
+<img width="1395" alt="docode_web_mini_browser_1" src="https://user-images.githubusercontent.com/51156057/207988617-a2594cbb-af5f-484e-adc3-b5249fcd05c4.png">
 
 1# Click on the web preview button:
+<img width="1397" alt="docode_web_mini_browser_2" src="https://user-images.githubusercontent.com/51156057/207988743-2b049cc3-bbc3-45ea-aadd-96c5b1bda584.png">
+
+2# You can preview your html:
+<img width="1396" alt="docode_web_mini_browser_3" src="https://user-images.githubusercontent.com/51156057/207988895-9891cbcd-5c4d-41b5-b721-2573be177cc7.png">
