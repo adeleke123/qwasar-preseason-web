@@ -14,15 +14,16 @@ We've seen variable, with different types. Integer, char, string.
 But let's remember, why we started to code?
 Create something? Automation? Both? :D
 
-
-
+<img width="397" alt="repeating_is_waste_of_time" src="https://user-images.githubusercontent.com/51156057/211625255-c9d8051a-c1a7-4afa-a679-70e9d45f907e.png">
 
 Let's loop in :D
 
-Js Quest03	My Html Journey First While
-Submit directory	ex00
-Submit file	index.html
-Description
+| Js Quest03 | My Html Journey First While |
+| ---------- | ----------------------------|
+| Submit directory | ex00 |
+| `Submit file`	| `index.html` |
+
+## Description
 Last part of automation is loop.
 
 Repeating is annoying? what is we could create a program for it? :)
@@ -30,7 +31,7 @@ Repeating is annoying? what is we could create a program for it? :)
 Let's talk about our assignment:
 
 Create an index.html file with this content:
-
+```
 <!DOCTYPE html>
 <html>
     <body>
@@ -49,7 +50,7 @@ Implemente a while loop to print 100 times "I want to code".
 
 Replace/Complete the following code.
 (The XX is what you need to replace)
-
+```
 To display your page you will need a static html page renderer (see annex at the bottom).
 
 Tip
