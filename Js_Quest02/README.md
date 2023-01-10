@@ -104,7 +104,7 @@ Google access browser debugger console
 ## Description
 We continue our journey with function. Function can be very complex.
 
-A function is a flow, with an input and an output.
+A function is a `flow`, with an input and an output.
 In the middle it's doing something.
 
 Let's talk about our assignment:
@@ -146,10 +146,13 @@ To display your page you will need a static html page renderer (see annex at the
 Tip
 Google access browser debugger console
 
-Js Quest03	My Html Journey First Function With Return
-Submit directory	ex03
-Submit file	index.html
-Description
+| Js Quest03 | My Html Journey First Function With Return |
+| ---------- | ------------------------------------------ |
+| Submit directory | ex03 |
+| `Submit file` | `index.html` |
+
+## Description
+
 We continue our journey with function. We talked about input (parameters).
 
 Let's talk about the output. (return)
@@ -157,7 +160,7 @@ Let's talk about the output. (return)
 Let's talk about our assignment:
 
 Create an index.html file with this content:
-
+```
 <!DOCTYPE html>
 <html>
     <body>
@@ -170,6 +173,7 @@ Create an index.html file with this content:
       console.log(my_get_seven());
     </script>
 </html>
+```
 Function returns a value, let's print it!
 
 Implemente a function which return a number (7)
@@ -182,14 +186,16 @@ To display your page you will need a static html page renderer (see annex at the
 Tip
 Google access browser debugger console
 
-Js Quest03	My Moving Box
-Submit directory	ex04
-Submit file	index.html
-Description
-Complete an index.html file with the missing javascript code in order to move the "div" with the id my_box to the coordinate of: bottom: 0and right 0
+| Js Quest03 | My Moving Box |
+| ---------- | ------------- |
+| Submit directory | ex04 |
+| `Submit file` | `index.html` |
+
+## Description
+Complete an `index.html` file with the missing javascript code in order to move the "div" with the id my_box to the coordinate of: bottom: 0and right 0
 
 You cannot change the value of the html, moving the box needs to be done using javascript.
-
+```
 $>cat index.html
 <html>
     <div id="my_box" style= "background-color: red; position: absolute; right: 70; bottom: 70; min-width: 100px; min-height: 100px"></div>
@@ -198,7 +204,8 @@ $>cat index.html
     </script>
 </html>
 $>
-To display your page you will need a static html page renderer (see annex at the bottom).
+```
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tips
 Google Javascript document getElementById
