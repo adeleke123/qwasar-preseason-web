@@ -105,7 +105,7 @@ Google access browser debugger console
 We continue our journey with function. Function can be very complex.
 
 A function is a `flow`, with an input and an output.
-In the middle it's doing something.
+In the middle it's doing `something`.
 
 Let's talk about our assignment:
 
@@ -141,7 +141,7 @@ Your loop will stop at 0. You need to consider 10 included, but 0 is not.
 Replace/Complete the following code.
 (The XX is what you need to replace)
 
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
@@ -181,7 +181,7 @@ Implemente a function which return a number (7)
 Replace/Complete the following code.
 (The XX is what you need to replace)
 
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
