@@ -51,28 +51,30 @@ Implemente a while loop to print 100 times "I want to code".
 Replace/Complete the following code.
 (The XX is what you need to replace)
 ```
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
 
-Js Quest03	My Html Journey First Function
-Submit directory	ex01
-Submit file	index.html
-Description
+| Js Quest03 | My Html Journey First Function |
+| ---------- | ------------------------------ |
+| Submit directory | ex01 |
+| `Submit file` | `index.html` |
+
+## Description
 Our code will start to be messy with a lot of loop and if statements.
 
-Another concept is abstraction and how to do this?
-A short answer is with functions.
+Another concept is `abstraction` and how to do this?
+A short answer is with `functions`.
 
-What is a function?
-A function is a body of code that returns a value.
+What is a `function`?
+A `function` is a body of code that returns a value.
 The value returned may depend on arguments provided to the function.
 
 Let's talk about our assignment:
 
 Create an index.html file with this content:
-
+```
 <!DOCTYPE html>
 <html>
     <body>
@@ -86,17 +88,20 @@ Create an index.html file with this content:
       my_first_function();
     </script>
 </html>
-Replace the XX by the necessary code to create a function called my_first_function.
+```
+Replace the XX by the necessary code to create a function called `my_first_function`.
 
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
 
-Js Quest03	My Html Journey First Function With Params
-Submit directory	ex02
-Submit file	index.html
-Description
+| Js Quest03 | My Html Journey First Function With Params |
+| ---------- | ------------------------------------------ |
+| Submit directory | ex02 |
+|`Submit file` |`index.html`|
+
+## Description
 We continue our journey with function. Function can be very complex.
 
 A function is a flow, with an input and an output.
@@ -105,7 +110,7 @@ In the middle it's doing something.
 Let's talk about our assignment:
 
 Create an index.html file with this content:
-
+```
 <!DOCTYPE html>
 <html>
     <body>
@@ -126,6 +131,7 @@ Create an index.html file with this content:
       }
     </script>
 </html>
+```
 Function accepts parameters, let's send an integer to our function and print it!
 
 Implemente a while loop to call a function detonation in...X secondes.
