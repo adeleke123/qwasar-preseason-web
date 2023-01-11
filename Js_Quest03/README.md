@@ -209,4 +209,4 @@ To display your page you will need a `static html page renderer` (see annex at t
 
 Tips
 Google Javascript document getElementById
-Google Javascript change css position
+Google Javascript change css position 
