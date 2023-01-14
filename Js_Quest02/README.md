@@ -5,8 +5,8 @@ Remember to git add && git commit && git push each exercise!
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
 For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Introduction
 
 Syntax is the very first thing we need to learn before we create.
@@ -110,25 +110,28 @@ Create an index.html file with this content:
 </html>
 ```
 We will create 3 variables, one my_age, one my_name and one my_comma.
-
+```
 XX = 34;
 XX = "Luke";
 XX = ',';
 
 console.log("Hello " + my_name + my_comma + " I'm "+ my_age + " years old.");
+```
 Copy it inside the script tag and complete the code above (replace the XX with the correct variable name).
 
 Notice how we are using console.log in order to print them.
 
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
 
-Js Quest02	My Html Journey First Incrementation
-Submit directory	ex03
-Submit file	index.html
-Description
+| Js Quest02 | My Html Journey First Incrementation |
+| ---------- | ------------------------------------ |
+| Submit directory | ex03 |
+| `Submit file` | `index.html` |
+
+## Description
 Automation is the real goal of coding. What does that translate to?
 A lot of loops and if statements. :-)
 
@@ -136,12 +139,12 @@ One very important tool is: incrementation and decrementation.
 
 This is a way to add (or remove) 1 from a integer variable.
 
-Syntax is: my_variable++ (and my_variable-- to decrement)
+Syntax is: `my_variable+`+ (and `my_variable-- to decrement`)
 
 Let's use them inside a page.
 
 Create an index.html file with this content:
-
+```
 <!DOCTYPE html>
 <html>
     <body>
@@ -150,6 +153,7 @@ Create an index.html file with this content:
       // Put your variable here
     </script>
 </html>
+```
 We will create a variable my_index and initialize it to 0.
 increment once
 print
@@ -157,7 +161,7 @@ then decrement twice
 print
 then increment three times.
 and print again
-
+```
 my_index = 0;
 // replace this comment with an increment
 console.log(my_index);
@@ -168,11 +172,12 @@ console.log(my_index);
 // replace this comment with an increment
 // replace this comment with an increment
 console.log(my_index);
+```
 Copy this inside of the script tag and complete the code above (replace the comment with the right incrementation or decrementation).
 
-Notice lines with // are comments.
+Notice lines with `//` are comments.
 
-To display your page you will need a static html page renderer (see annex at the bottom).
+To display your page you will need a `static html page renderer` (see annex at the bottom).
 
 Tip
 Google access browser debugger console
@@ -209,7 +214,7 @@ Create an index.html file with this content:
 ```
 Replace the XX by the necessary comparaison to make it print the correct value.
 
-Notice, ; at the end of the line, we highly suggest you always add them :)
+Notice, `;` at the end of the line, we highly suggest you always add them :)
 
 To display your page you will need a `static html page renderer` (see annex at the bottom).
 
@@ -224,7 +229,7 @@ Google access browser debugger console
 ## Description
 2nd step into automation: if (and else) statements part II.
 
-If are usually more complicated than the previous assignment. :-)
+`If` are usually more complicated than the previous assignment. :-)
 
 Let's talk about our assignment:
 
@@ -266,9 +271,9 @@ Google access browser debugger console
 | Submit file | index.html |
 
 ## Description
-Updating a page in a static way is cool, but can we update it dynamically using Javascript? :-)
+Updating a page in a `static` way is cool, but can we update it dynamically using Javascript? :-)
 
-Let's take our my_box:
+Let's take our `my_box`:
 
 Create an index.html file with this content:
 ```
@@ -287,7 +292,7 @@ Create an index.html file with this content:
 ```
 You will modify this page so the div box has a green (#00FF00) background.
 
-Notice we are selecting the box with a function called: getElementById and we are passing the id of my_box.
+Notice we are `selecting` the box with a function called: `getElementById` and we are passing the `id` of `my_box`.
 
 To display your page you will need a `static html page renderer` (see annex at the bottom).
 
