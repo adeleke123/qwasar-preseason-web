@@ -19,6 +19,7 @@ We will take some time to write some scripts.
 
 At the end of the bootcamp you will be one of us :-)
 
+
 ![4](https://user-images.githubusercontent.com/51156057/213815972-0c56c916-5226-4e7b-a0c0-f45d98b18123.jpg)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,31 +27,36 @@ At the end of the bootcamp you will be one of us :-)
 | Js Quest04 | My First Script |
 | -----------| ----------------|
 | Submit directory | ex00 |
-| `Submit file | my_first_script.js` |
+| `Submit file` | `my_first_script.js` |
 
-Description
-Write your first script and have it print Hello World!.
-Create a file my_first_script.js.
+## Description
+Write your first script and have it print `Hello World!`.
+Create a file `my_first_script.js`.
 Add a printing function (see tips)
 
 Example 00 (In Javascript)
-
+```
 $>node my_first_script.js
 Hello World!
 $>
+```
 Example 01 (In Python)
-
+```
 $>python my_first_script.py
 Hello World!
 $>
+```
 Example 02 (In Ruby)
-
+```
 $>ruby my_first_script.rb
 Hello World!
 $>
+```
 Tip
 (In Javascript)
-It will contain console.log("Hello World!")
+It will contain `console.log("Hello World!")`
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Js Quest04	My Multiple Variables Multiple Type
 Submit directory	ex01
