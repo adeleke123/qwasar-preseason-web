@@ -84,11 +84,14 @@ Return Value: nil
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest04	My First If Multiple Conditions
-Submit directory	ex02
-Submit file	my_first_if_multiple_conditions.js
-Description
-if conditions are linked to else statements and writing the correct condition can be quite complicated :D.
+| Js Quest04 | My First If Multiple Conditions |
+| -----------| ------------------------------- |
+| Submit directory | ex02 |
+| `Submit file` |	`my_first_if_multiple_conditions.js` |
+
+## Description
+
+`if conditions` are linked to `else` statements and writing the correct condition can be quite complicated :D.
 
 Your assignment is to write the correct conditions inside the if statements below in order to render the 2 print statements true!
 
@@ -96,7 +99,7 @@ Replace/Complete the following code.
 (The XX is what you need to replace)
 
 Function prototype (javascript)
-
+```
 a = 10
 b = 9
 c = 11
@@ -110,13 +113,17 @@ if (XX) {
 if (XX) {
   console.log("z OR y are bigger than a");
 }
+```
 Example 00
-
+```
 Input: 
 Output: a is bigger than b AND smaller than c AND equal to d
 z OR y are bigger than a
 
 Return Value: nil
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Js Quest04	My First Function
 Submit directory	ex03
 Submit file	my_first_function.js
