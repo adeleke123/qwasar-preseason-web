@@ -58,26 +58,32 @@ It will contain `console.log("Hello World!")`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest04	My Multiple Variables Multiple Type
-Submit directory	ex01
-Submit file	my_multiple_variables_multiple_type.js
-Description
+| Js Quest04 | My Multiple Variables Multiple Type |
+| ---------- | ----------------------------------- |
+| Submit directory | ex01 |
+| `Submit file` |	`my_multiple_variables_multiple_type.js` |
+
+## Description
 Replace/Complete the following code. Create multiple variables with (if needed) the right type.
 (The XX is what you need to replace)
 
 Function prototype (javascript)
-
+```
 XX = 34;
 XX = "Luke";
 XX = ',';
 
 console.log("Hello " + my_name + my_comma + " I'm "+ my_age + " years old.");
+```
 Example 00
-
+```
 Input: 
 Output: Hello Luke, I'm 34 years old.
 
 Return Value: nil
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Js Quest04	My First If Multiple Conditions
 Submit directory	ex02
 Submit file	my_first_if_multiple_conditions.js
