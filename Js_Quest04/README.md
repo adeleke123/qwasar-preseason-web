@@ -124,10 +124,12 @@ Return Value: nil
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest04	My First Function
-Submit directory	ex03
-Submit file	my_first_function.js
-Description
+| Js Quest04 | My First Function |
+| -----------| ----------------- |
+| Submit directory | ex03 |
+| `Submit file` | `my_first_function.js` |
+
+## Description
 The syntax is only a small part of what you need to learn to write quality code.
 Software Architecture (Designing Software) is really the core part of each project and being a good engineer.
 
@@ -137,16 +139,18 @@ Replace/Complete the following code.
 (The XX is what you need to replace)
 
 Function prototype (javascript)
-
+```
 // Following XXXXXX will be a function that will print using console.log("my_first_function")
 XXXXXX
 XXXXXX
 XXXXXX
 
 my_first_function();
+```
 Example 00
-
+```
 Input: 
 Output: my_first_function
 
 Return Value: nil
+```
