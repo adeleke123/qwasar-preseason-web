@@ -1,0 +1,5 @@
+var my_age = 34;
+var my_name = "Luke";
+var my_comma = ',';
+
+console.log("Hello " + my_name + my_comma + " I'm "+ my_age + " years old.");
