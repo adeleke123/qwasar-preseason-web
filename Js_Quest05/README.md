@@ -301,17 +301,21 @@ Input: -10 && 10
 Output: 
 Return Value: -100
 ```
-Js Quest05	My String Formatting
-Submit directory	ex06
-Submit file	my_string_formatting.js
-Description
-Create a my_string_formatting function which takes 3 parameters (firstname, lastname and age) and prints a string composed value.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Js Quest05 | My String Formatting |
+| ---------- | -------------------- |
+| Submit directory	| ex06 |
+| `Submit file` |	`my_string_formatting.js` |
+
+## Description
+Create a `my_string_formatting` function which takes `3` parameters (`firstname`, `lastname` and `age`) and prints a string composed `value`.
 
 Formatting should be: "Hello, my name is FIRSTNAME LASTNAME, I'm AGE."
 
 Make sure you are printing a newline.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_string_formatting
@@ -327,23 +331,27 @@ Function prototype (javascript)
 function my_string_formatting(param_1, param_2, param_3) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: "john" && "doe" && 37
 Output: Hello, my name is john doe, I'm 37.
 
 Return Value: nil
-Example 01
-
+```
+## Example 01
+```
 Input: "Baby" && "Yoda" && 50
 Output: Hello, my name is Baby Yoda, I'm 50.
 
 Return Value: nil
-Example 02
-
+```
+## Example 02
+```
 Input: "Marie" && "Curie" && 26
 Output: Hello, my name is Marie Curie, I'm 26.
 
 Return Value: nil
-Tip
+```
+** Tip
 You should use Google to learn about String interpolation :-)
