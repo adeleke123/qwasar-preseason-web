@@ -49,7 +49,7 @@ blah3
 $>
 ```
 Tip
-Google the following: script in YOURCODINGLANGUAGE receiving arguments (argv)
+- Google the following: script in YOURCODINGLANGUAGE receiving arguments (argv)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ function my_is_negative(param_1) {
 };
 ```
 Tip
-(In Javascript)
+- (In Javascript)
 Your script will look like something close to this:
 ```
 function my_is_negative(n) {
@@ -353,5 +353,5 @@ Output: Hello, my name is Marie Curie, I'm 26.
 
 Return Value: nil
 ```
-** Tip
-You should use Google to learn about String interpolation :-)
+Tip
+- You should use Google to learn about String interpolation :-)
