@@ -205,14 +205,18 @@ Output:
 Return Value: 0
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Js Quest05	My Sub
-Submit directory	ex04
-Submit file	my_sub.js
-Description
-Create a my_sub function which takes 2 parameters (nbr1 and nbr2) and returns a value.
-This value is the result of the subtraction of nbr1 and nbr2 parameters.
 
-Function prototype (javascript)
+| Js Quest05 | My Sub |
+| ---------- | ------ |
+| Submit directory	| ex04 |
+| `Submit file` |	`my_sub.js` |
+
+## Description
+Create a `my_sub` function which takes `2` parameters (`nbr1` and `nbr2`) and returns a `value`.
+This `value` is the result of the subtraction of `nbr1` and `nbr2` parameters.
+
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_sub
@@ -229,29 +233,39 @@ Function prototype (javascript)
 function my_sub(param_1, param_2) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: 0 && 1
 Output: 
 Return Value: -1
-Example 01
-
+```
+## Example 01
+```
 Input: 10 && 10
 Output: 
 Return Value: 0
-Example 02
-
+```
+## Example 02
+```
 Input: -10 && 10
 Output: 
 Return Value: -20
-Js Quest05	My Mult
-Submit directory	ex05
-Submit file	my_mult.js
-Description
-Create a my_mult function which takes 2 parameters (nbr1 and nbr2) and returns a value.
-This value is the result of the multiplication of nbr1 and nbr2 parameters.
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Function prototype (javascript)
+| Js Quest05 | My Mult |
+| ---------- | ------- |
+| Submit directory	| ex05 |
+| `Submit file` |	`my_mult.js` |
+
+## Description
+
+Create a `my_mult` function which takes `2` parameters (`nbr1` and `nbr2`) and returns a `value`.
+This `value` is the result of the multiplication of `nbr1` and `nbr2` parameters.
+
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_mult
@@ -268,21 +282,25 @@ Function prototype (javascript)
 function my_mult(param_1, param_2) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: 0 && 1
 Output: 
 Return Value: 0
-Example 01
-
+```
+## Example 01
+```
 Input: 10 && 10
 Output: 
 Return Value: 100
-Example 02
-
+```
+## Example 02
+```
 Input: -10 && 10
 Output: 
 Return Value: -100
+```
 Js Quest05	My String Formatting
 Submit directory	ex06
 Submit file	my_string_formatting.js
