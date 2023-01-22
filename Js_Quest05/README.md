@@ -52,17 +52,21 @@ Tip
 Google the following: script in YOURCODINGLANGUAGE receiving arguments (argv)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Js Quest05	My Is Negative
-Submit directory	ex01
-Submit file	my_is_negative.js
-Description
+
+| Js Quest05	| My Is Negative |
+| ----------- | -------------- |
+| Submit directory | ex01 |
+| `Submit file` |	`my_is_negative.js` |
+
+## Description
 Let’s get started with some if-else statements!
 
-Create a my_is_negative function.
-This function my_is_negative should return a 1 or 0 depending on the integer’s sign entered as a parameter.
-If n is negative, return 0. If n is positive or 0, return 1.
+Create a `my_is_negative` function.
+This function `my_is_negative` should return a 1 or 0 depending on the integer’s sign entered as a parameter.
+If `n` is negative, return `0`. If `n` is positive or 0, return `1`.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_is_negative
@@ -78,10 +82,11 @@ Function prototype (javascript)
 function my_is_negative(param_1) {
 
 };
+```
 Tip
 (In Javascript)
 Your script will look like something close to this:
-
+```
 function my_is_negative(n) {
   if (XXXXX) {
     return XXX;
@@ -102,6 +107,9 @@ console.log(my_is_negative(0));
 // OTHERWISE IT WILL FAIL THE AUTOMATIC TEST SYSTEM
 //
 // <- yes this a way to comment your code
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Js Quest05	My Abs
 Submit directory	ex02
 Submit file	my_abs.js
