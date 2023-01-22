@@ -110,15 +110,18 @@ console.log(my_is_negative(0));
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest05	My Abs
-Submit directory	ex02
-Submit file	my_abs.js
-Description
-Create a my_abs function.
+| Js Quest05	| My Abs |
+| ----------- | ------ |
+| Submit directory	| ex02 |
+| `Submit file` |	`my_abs.js` |
+
+## Description
+Create a `my_abs` function.
 
 Reproduce the behavior of an abs() function. It always returns the positive value of a number.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_abs
@@ -134,25 +137,31 @@ Function prototype (javascript)
 function my_abs(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: -30
 Output: 
 Return Value: 30
-Example 01
-
+```
+## Example 01
+```
 Input: 30
 Output: 
 Return Value: 30
-Example 02
-
+```
+## Example 02
+```
 Input: 0
 Output: 
 Return Value: 0
-Js Quest05	My Add
-Submit directory	ex03
-Submit file	my_add.js
-Description
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Js Quest05 | My Add |
+| Submit directory | ex03 |
+| `Submit file` |	`my_add.js` |
+
+## Description
 Create a my_add function which takes 2 parameters (nbr1 and nbr2) and returns a value.
 This value is the result of the addition of nbr1 and nbr2 parameters.
 
