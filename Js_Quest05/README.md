@@ -3,46 +3,55 @@ Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Introduction
 Let's continue our coding journey by writing some basic math functions.
 
 Our first assignment will be to focus on "dynamic" and we can pass arguments to any of our scripts from the terminal.
 
-Js Quest05	My First Script With Args
-Submit directory	ex00
-Submit file	my_first_script_with_args.js
-Description
+| Js Quest05 | My First Script With Args |
+| -----------| ------------------------- |
+| Submit directory | ex00 |
+| `Submit file`	| `my_first_script_with_args.js` |
+
+## Description
+
 Let's do our first loop statement!
 
-Create a file my_first_script_with_args.js.
+Create a file `my_first_script_with_args.js`.
 
 It will print any argument received to the script
 
-Example 00 (In Javascript)
+## Example 00 (In Javascript)
+```
 
 $>node my_first_script_with_args.js blah1 blah2 blah3
 blah1
 blah2
 blah3
 $>
-Example 01 (In Python)
-
+```
+## Example 01 (In Python)
+```
 $>python my_first_script_with_args.py blah1
 blah1
 $>
-Example 02 (In Ruby)
-
+```
+## Example 02 (In Ruby)
+```
 $>ruby my_first_script_with_args.rb "blah1 blah2 blah3"
 blah1
 blah2
 blah3
 $>
+```
 Tip
 Google the following: script in YOURCODINGLANGUAGE receiving arguments (argv)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Js Quest05	My Is Negative
 Submit directory	ex01
 Submit file	my_is_negative.js
