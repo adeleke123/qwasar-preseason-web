@@ -3,7 +3,9 @@ Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit 
+file(s)`
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Introduction
@@ -61,13 +63,17 @@ Output:
 Return Value: -1
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Js Quest06	My Upcase
-Submit directory	ex01
-Submit file	my_upcase.js
-Description
-Create a my_upcase function that takes a string as a parameter and returns the uppercase version of it.
 
-Function prototype (javascript)
+| Js Quest06	| My Upcase |
+| ----------- | ----------|
+| Submit directory | ex01 |
+| `Submit file` |	`my_upcase.js` |
+
+## Description
+Create a `my_upcase` function that takes a string as a parameter and returns the uppercase version of it.
+
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_upcase
@@ -83,18 +89,24 @@ Function prototype (javascript)
 function my_upcase(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: "aBc"
 Output: 
 Return Value: "ABC"
-Example 01
-
+```
+## Example 01
+```
 Input: ""
 Output: 
 Return Value: ""
+```
+
 Tip
-Google upcase string YOURCODINGLANGUAGE
+- Google upcase string YOURCODINGLANGUAGE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Js Quest06	My Downcase
 Submit directory	ex02
