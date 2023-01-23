@@ -108,13 +108,16 @@ Tip
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest06	My Downcase
-Submit directory	ex02
-Submit file	my_downcase.js
-Description
-Create a my_downcase function that takes a string as a parameter and returns the lowercase version of it.
+| Js Quest06 | My Downcase |
+| ---------- | ----------- |
+| Submit directory | ex02 |
+| `Submit file` |	`my_downcase.js` |
 
-Function prototype (javascript)
+## Description
+Create a `my_downcase` function that takes a string as a parameter and returns the lowercase version of it.
+
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_downcase
@@ -130,18 +133,23 @@ Function prototype (javascript)
 function my_downcase(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: "aBc"
 Output: 
 Return Value: "abc"
-Example 01
-
+```
+## Example 01
+```
 Input: ""
 Output: 
 Return Value: ""
+```
 Tip
-Google downcase string YOURCODINGLANGUAGE
+- Google downcase string YOURCODINGLANGUAGE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Js Quest06	My Size
 Submit directory	ex03
