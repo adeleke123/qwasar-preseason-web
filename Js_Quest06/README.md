@@ -1,29 +1,36 @@
-Js Quest06
+## Js Quest06
 Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under submit directory and specific file names for each exercise are also provided at the beginning of each exercise under submit file(s).
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction
-Performing operations on a string is a major part of our job as a Developer.
+## Introduction
+Performing operations on a `string` is a major part of our job as a Developer.
 
+![character-arraych](https://user-images.githubusercontent.com/51156057/214148100-e1ff3920-a985-4535-80e5-df4fbf9510b6.png)
 
-A string is an array of characters and you can loop through it.
+A `string` is an array of characters and you can loop through it.
 
 It makes total sense since we are building a User Interface and the user is mostly human... and communication is through words. :-)
 
-Js Quest06	My String Index
-Submit directory	ex00
-Submit file	my_string_index.js
-Description
-Create a my_string_index function which takes 2 parameters (haystack and needle) and locates the first occurrence of the character needle in the string haystack and returns the position.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Js Quest06	| My String Index |
+| ----------- | --------------- |
+| Submit directory | ex00 |
+| `Submit file` |	`my_string_index.js` |
+
+## Description
+Create a `my_string_index` function which takes `2` parameters (`haystack` and `needle`) and locates the first occurrence of the character needle in the string haystack and returns the position.
 
 You can think of this function as: is there an L (character) in my string "helLo"?
 
-The objective is to build a loop that has an if statement which returns the characters position when it matches the right character.
+The objective is to build a loop that has an if statement which returns the characters position when it matches the `right` character.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_string_index
@@ -40,16 +47,20 @@ Function prototype (javascript)
 function my_string_index(param_1, param_2) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: "hello" && "l"
 Output: 
 Return Value: 2
-Example 01
-
+```
+## Example 01
+```
 Input: "aaaaa" && "b"
 Output: 
 Return Value: -1
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Js Quest06	My Upcase
 Submit directory	ex01
 Submit file	my_upcase.js
