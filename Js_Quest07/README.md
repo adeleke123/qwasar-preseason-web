@@ -27,15 +27,18 @@ PS:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest07	My Map Mult Two
-Submit directory	ex00
-Submit file	my_map_mult_two.js
-Description
+| Js Quest07 | My Map Mult Two |
+| ---------- | --------------- |
+| Submit directory | ex00 |
+| `Submit file`	| `my_map_mult_two.js` |
+
+## Description
 Multiply each element of an array by 2.
 
-Create a function my_map_mult_two that receives an integer array as a parameter and iterates over the array. Perform a multiplication by 2 on each value and return the new array collected.
+Create a function `my_map_mult_two` that receives an integer array as a parameter and iterates over the array. Perform a multiplication by 2 on each value and return the new array collected.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_map_mult_two
@@ -51,20 +54,26 @@ Function prototype (javascript)
 function my_map_mult_two(param_1) {
 
 };
-Example 00
+```
 
+## Example 00
+```
 Input: [1, 2, 3, 4, 5]
 Output: 
 Return Value: [2, 4, 6, 8, 10]
-Example 01
-
+```
+## Example 01
+```
 Input: []
 Output: 
 Return Value: []
+```
 Tips
-Google while YOURCODINGLANGUAGE
-Google for YOURCODINGLANGUAGE
-Google array YOURCODINGLANGUAGE
++ Google while YOURCODINGLANGUAGE
++ Google for YOURCODINGLANGUAGE
++ Google array YOURCODINGLANGUAGE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Js Quest07	My Count On It
 Submit directory	ex01
