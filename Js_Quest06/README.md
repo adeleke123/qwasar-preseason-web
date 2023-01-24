@@ -151,13 +151,16 @@ Tip
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest06	My Size
-Submit directory	ex03
-Submit file	my_size.js
-Description
-Create a my_size function that takes a string as a parameter and returns its length.
+| Js Quest06 | My Size |
+| -----------| ------- |
+| Submit directory | ex03 |
+| `Submit file`	| `my_size.js` |
 
-Function prototype (javascript)
+## Description
+Create a `my_size` function that takes a string as a parameter and returns its length.
+
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_size
@@ -173,34 +176,43 @@ Function prototype (javascript)
 function my_size(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: "aBc"
 Output: 
 Return Value: 3
-Example 01
-
+```
+## Example 01
+```
 Input: ""
 Output: 
 Return Value: 0
-Example 02
-
+```
+## Example 02
+```
 Input: "AbcE Fgef1"
 Output: 
 Return Value: 10
+```
 Tip
-Google length string YOURCODINGLANGUAGE
+- Google length string YOURCODINGLANGUAGE
 
-Js Quest06	My Each
-Submit directory	ex04
-Submit file	my_each.js
-Description
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Js Quest06 | My Each |
+| -----------| --------| 
+| Submit directory | ex04 |
+| `Submit file` |	`my_each.js` |
+
+## Description
 Time to print each element of an array.
 
-Create a my_each function that receives an array of strings as a parameter and iterates through the array. Use a function to print each value.
+Create a `my_each` function that receives an array of strings as a parameter and iterates through the array. Use a function to print each value.
 This function returns nothing.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_each
@@ -214,28 +226,32 @@ Function prototype (javascript)
 function my_each(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: ["blah1", "blah2", "blah3"]
 Output: blah1
 blah2
 blah3
 
 Return Value: nil
-Example 01
-
+```
+## Example 01
+```
 Input: ["blah1", "blah2"]
 Output: blah1
 blah2
 
 Return Value: nil
-Example 02
-
+```
+## Example 02
+```
 Input: ["1arg"]
 Output: 1arg
 
 Return Value: nil
+```
 Tips
-Google while YOURCODINGLANGUAGE
-Google for YOURCODINGLANGUAGE
-Google array.length YOURCODINGLANGUAGE
+- Google while YOURCODINGLANGUAGE
+- Google for YOURCODINGLANGUAGE
+- Google array.length YOURCODINGLANGUAGE
