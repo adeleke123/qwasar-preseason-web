@@ -75,15 +75,18 @@ Tips
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Js Quest07	My Count On It
-Submit directory	ex01
-Submit file	my_count_on_it.js
-Description
+| Js Quest07 | My Count On It |
+| ---------- | -------------- |
+| Submit directory | ex01 |
+| `Submit file` | `my_count_on_it.js` |
+
+## Description
 Count the size of each elements in an array.
 
-Create a function my_count_on_it that receives a string array as a parameter and returns an array with the length of each string.
+Create a function `my_count_on_it` that receives a string array as a parameter and returns an array with the length of each string.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_count_on_it
@@ -99,35 +102,44 @@ Function prototype (javascript)
 function my_count_on_it(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: ["This", "is", "the", "way"]
 Output: 
 Return Value: [4, 2, 3, 3]
-Example 01
-
+```
+## Example 01
+```
 Input: ["aBc", "AbcE Fgef1"]
 Output: 
 Return Value: [3, 10]
-Example 02
-
+```
+## Example 02
+```
 Input: ["aBc"]
 Output: 
 Return Value: [3]
+```
 Tips
-Google while YOURCODINGLANGUAGE
-Google for YOURCODINGLANGUAGE
-Google array.length YOURCODINGLANGUAGE
++ Google while YOURCODINGLANGUAGE
++ Google for YOURCODINGLANGUAGE
++ Google array.length YOURCODINGLANGUAGE
 
-Js Quest07	My Array Uniq
-Submit directory	ex02
-Submit file	my_array_uniq.js
-Description
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Js Quest07 |b y Array Uniq |
+| ---------- | ------------- |
+| Submit directory | ex02 |
+| `Submit file`	| `my_array_uniq.js` |
+
+## Description
 Create an array without any duplicates.
 
 Create a function my_array_uniq that receives an integer array as a parameter and returns an array with those integers but without any duplicates.
 
-Function prototype (javascript)
+## Function prototype (javascript)
+```
 /*
 **
 ** QWASAR.IO -- my_array_uniq
@@ -143,23 +155,27 @@ Function prototype (javascript)
 function my_array_uniq(param_1) {
 
 };
-Example 00
-
+```
+## Example 00
+```
 Input: [1, 1, 2]
 Output: 
 Return Value: [1, 2]
-Example 01
-
+```
+## Example 01
+```
 Input: []
 Output: 
 Return Value: []
-Example 02
-
+```
+## Example 02
+```
 Input: [1, 1, 1, 2, 3, 4, 1]
 Output: 
 Return Value: [1, 2, 3, 4]
+```
 Tip
-Google filter/uniq YOURCODINGLANGUAGE
++ Google filter/uniq YOURCODINGLANGUAGE
 
 Js Quest07	My Average Mark
 Submit directory	ex03
