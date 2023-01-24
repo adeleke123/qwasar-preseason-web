@@ -3,24 +3,29 @@ Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under submit directory and specific file names for each exercise are also provided at the beginning of each exercise under submit file(s).
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
 
-Introduction
-This is the final quest, and we will conclude with one of the big pieces of coding which is about using the correct data structure.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Introduction
+This is the final quest, and we will conclude with one of the big pieces of coding which is about using the `correct` data structure.
 
 What is a data structure?
 An array is a data structure.
-But it's not the only one, hash, queue, stack, linked list, tree, ... there are a lot of different data structures. :D
+But it's not the only one, hash, `queue`, `stack`, `linked list`, `tree`, ... there are a lot of different data structures. :D
 
 They can perform different types of operations at different speeds OR/AND use of memory.
 
-For example an Array is faster to search (and even more if it's sorted) than a Linked list but a Linked list is easier to insert an element in the middle of it.
+For example an `Array` is faster to search (and even more if it's sorted) than a `Linked list` but a `Linked list` is easier to insert an element in the middle of it.
 
-For this quest you will only need to know how to use an array and a dictionary (or often called a Hash).
+For this quest you will only need to know how to use an `array` and a `dictionary` (or often called a `Hash`).
 
 Good luck :-)
 PS:
-array starts at 1
+
+![array_start_at_1](https://user-images.githubusercontent.com/51156057/214430811-af3bec5c-c148-4bac-93b6-826867307c67.jpg)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Js Quest07	My Map Mult Two
 Submit directory	ex00
