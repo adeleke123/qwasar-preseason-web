@@ -22,7 +22,7 @@ Flexbox is very powerful in order to align `responsively` elements.
 Your web page will be `responsive`, which means your page will handle a `mobile` view and a desktop `view`.
 
 Mobile view:
-
+```
 ----------
 | HEADER |
 ----------
@@ -34,8 +34,10 @@ Mobile view:
 ----------
 | FOOTER |
 ----------
+```
 Desktop view:
 
+```
 ---------------------
 |       HEADER      |
 ---------------------
@@ -45,6 +47,8 @@ Desktop view:
 ---------------------
 |       FOOTER      |
 ---------------------
+```
+
 Example:
 
 
