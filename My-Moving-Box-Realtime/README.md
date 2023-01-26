@@ -45,7 +45,7 @@ Make sure to not have: `<!DOCTYPE html>` at the top, it creates some incompatibi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Annex: Static Html Page Renderer
-How to have a static html page renderer inside Docode:
+How to have a `static html page renderer` inside Docode:
 
 0# Open your HTML file:
 
