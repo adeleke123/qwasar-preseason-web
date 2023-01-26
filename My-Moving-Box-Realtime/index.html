@@ -1,0 +1,17 @@
+<html>
+    <div id="my_box_realtime" style= "background-color: red; position: absolute; right: 70; bottom: 70; min-width: 100px; min-height: 100px"></div>
+    <script type="text/javascript">
+      // YOUR CODE
+      let position = document.getElementById("my_box_realtime");
+      let num = 70;
+      function move_box() {
+        position.style.right = num;
+        position.style.bottom = num;
+        num--;
+      }
+  
+      setInterval(move_box, 500);
+            
+      
+    </script>
+</html>
