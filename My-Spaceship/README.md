@@ -65,11 +65,12 @@ Example 02
 Input: ""
 Output: 
 Return Value: "{x: 0, y: 0, direction: 'up'}"
-Example 03
-
+## Example 03
+```
 Input: "RAARA"
 Output: 
 Return Value: "{x: 2, y: 1, direction: 'down'}"
+```
 Tip
-(In C)
-In C, you can use snprintf.
+- (In C)
+- In C, you can use snprintf.
