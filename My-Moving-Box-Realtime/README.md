@@ -56,6 +56,6 @@ How to have a static html page renderer inside Docode:
 
 <img width="1397" alt="docode_web_mini_browser_2" src="https://user-images.githubusercontent.com/51156057/214905437-62c3d87b-9908-4fa5-b8db-2c21a60cf638.png">
 
-
 2# You can preview your html:
 
+<img width="1396" alt="docode_web_mini_browser_3" src="https://user-images.githubusercontent.com/51156057/214905814-f7156068-fc0f-4868-93c4-39df442abf36.png">
