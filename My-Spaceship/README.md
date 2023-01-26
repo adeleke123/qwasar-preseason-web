@@ -42,9 +42,9 @@ X,Y represent the ending coordinates of your ship and direction represents its f
 ## Notes
 Function my_spaceship returns a STRING.
 
-We are using Computer Graphics Coordinate System
-![computer_coordinates](https://user-images.githubusercontent.com/51156057/214913158-f80a5916-1190-47e2-a24a-05b3fccedf9c.png)
+[We are using Computer Graphics Coordinate System](https://fcs-cs.github.io/cs1-2018/modules/01-introduction/computer-coordinates/)
 
+![computer_coordinates](https://user-images.githubusercontent.com/51156057/214913158-f80a5916-1190-47e2-a24a-05b3fccedf9c.png)
 
 All spaceships will start at 0,0 and will face up
 Moving left/right will influence X and moving up/down will influence Y
