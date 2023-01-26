@@ -1,21 +1,25 @@
-My Css Is Easy I
+## My Css Is Easy I
 Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under submit directory and specific file names for each exercise are also provided at the beginning of each exercise under submit file(s).
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory`and specific file names for each exercise are also provided at the beginning of each exercise `under submit file(s)`
 
-My Css Is Easy I	
-Submit directory	.
-Submit files	index.html - style.css
-Description
-Create a html page (named: index.html) with a css style (named: style.css).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-It is required to use flexbox. If you use float, this exercise will be considered as failed.
+| My Css Is Easy I |      |
+| ---------------- | ---- |
+| Submit directory  |   . |
+| `Submit files` | `index.html - style.css` |
 
-Flexbox is very powerful in order to align responsively elements.
+## Description
+Create a html page (named: `index.html`) with a css style (named: `style.css`).
 
-Your web page will be responsive, which means your page will handle a mobile view and a desktop view.
+It is required to use `flexbox`. If you use `float`, this exercise will be considered as failed.
+
+Flexbox is very powerful in order to align `responsively` elements.
+
+Your web page will be `responsive`, which means your page will handle a `mobile` view and a desktop `view`.
 
 Mobile view:
 
