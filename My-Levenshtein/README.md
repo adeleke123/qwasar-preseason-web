@@ -6,12 +6,15 @@ We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S
 
 For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 | My Levenshtein |  	|
 | -------------- | ---- |
 | Submit directory | ex00 |
 | `Submit file` | `my_levenshtein*` |
 | Languages | It needs to be completed in the language you are working on right now. If you are doing Bootcamp Javascript, then javascript (file extension will be .js). If you are doing Bootcamp Ruby, then Ruby (file extension will be .rb). It goes the same for Python, Java, C++, Rust, ... |
-Description
+
+## Description
 Your job is to write an algorithm that calculates the Qwasar version of a Levenshtein number between two words.
 
 The Qwasar version of a Levenshtein number is simple: it's a value that represents how similar two given strings are.
