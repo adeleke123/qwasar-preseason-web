@@ -54,15 +54,14 @@ Your web page will be `responsive`, which means your page will handle a `mobile`
 ![css_is_easy](https://user-images.githubusercontent.com/51156057/214919611-5da9c85f-4b26-47f0-8512-85f1f919d173.gif)
 
 Each section will have their names displayed (ex: in the header component you will have the word `header`, hero for hero, etc.)
-Use some padding to make it smooth.
-Header will have a background color: 00B7EB
-Hero will have a background color: FF0000
-Content will have a background color: 00FF00
-Sidebar will have a background color: 800080
-Footer will have a background color: 444444
-Mobile view is defined as a screen width less than 640px
-
-Desktop view is defined as a screen width bigger than 640px
++ Use some padding to make it smooth.
++ Header will have a background color: 00B7EB
++ Hero will have a background color: FF0000
++ Content will have a background color: 00FF00
++ Sidebar will have a background color: 800080
++ Footer will have a background color: 444444
++ Mobile view is defined as a screen width less than 640px
++ Desktop view is defined as a screen width bigger than 640px
 
 Some browsers create a `margin` inside the `body tag`.
 To get rid of it:
@@ -71,9 +70,9 @@ body {
     margin: 0px !important;
 }
 ```
-Gandalf is not a big fan of margins.
-Gandalf is not a big fan of HTML5 (`header/section/footer` will be replaced by the tag `div`.)
-Gandalf will not find sections if they are not properly named and it will display an error about timeout.
++ Gandalf is not a big fan of margins.
++ Gandalf is not a big fan of HTML5 (`header/section/footer` will be replaced by the tag `div`.)
++ Gandalf will not find sections if they are not properly named and it will display an error about timeout.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
