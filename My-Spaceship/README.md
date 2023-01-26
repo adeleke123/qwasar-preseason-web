@@ -18,7 +18,7 @@ For each exercise, you will have to create a folder and in this folder, you will
 
 You have been recently been hired by SpacePro, a new rocket manufacturer, and have been tasked with designing a simulator for their spaceships. This simulator creates a virtual “space” and keeps track of the basic movements and direction of a given ship. Your job is to keep track of where the ship is and it’s orientation relative to its starting point.
 
-Instructions
+## Instructions
 Your ship simulator must take in a string of letters that represent a planned flight path for a given rocket ship.
 
 In a ship’s flight path there are only 3 valid options for movement; R for turning right, L for turning left and A for advancing.
@@ -33,25 +33,28 @@ Space is infinite, so the x,y coordinates you return could be placed on a seemin
 
 So let's say an upward-facing rocket ship leaves its starting point of 0,0 and is given the flight path of “RRALAA”, its final location will be 2,-1 and it will be facing right.
 
-Your Job
+## Your Job
+
 You must create a function that takes in a flight path of a rocket ship as a string of letters and returns the following format:
 "{x: X, y: Y, direction: 'DIRECTION'}"
 X,Y represent the ending coordinates of your ship and direction represents its final direction.
 
-Notes
+## Notes
 Function my_spaceship returns a STRING.
 
 We are using Computer Graphics Coordinate System
+![computer_coordinates](https://user-images.githubusercontent.com/51156057/214913158-f80a5916-1190-47e2-a24a-05b3fccedf9c.png)
 
 
 All spaceships will start at 0,0 and will face up
 Moving left/right will influence X and moving up/down will influence Y
 
-Example 00
-
+## Example 00
+```
 Input: "RAALALL"
 Output: 
 Return Value: "{x: 2, y: -1, direction: 'down'}"
+```
 Example 01
 
 Input: "AAAA"
