@@ -1,0 +1,45 @@
+<html style='background-color: black; max-width: 1078px; max-height: 768px;'>
+  <div id="my_bouncing_box" style= "background-color: blue; border-radius: 3px; position: absolute; left: 0px; top: 0px; min-width: 100px; min-height: 100px; text-align: center; font-weight: bold; color: #999;" >muideen_b</div>
+  <script type="text/javascript">
+    my_bouncing_box = document.getElementById("my_bouncing_box");
+    let l = 0;
+    let t = 0;
+    let topEdge = true;
+    let leftEdge = true;
+    const pageWidth  = document.documentElement.scrollWidth - 100;
+    const pageHeight = document.documentElement.scrollHeight - 100;
+       
+    setInterval(changePosition, 1);
+       
+    function changePosition()
+    {
+        
+        if(leftEdge){
+            l++;
+        }else{
+            l--;
+        }
+        if(topEdge){
+            t++;
+        }else{
+            t--;
+        }
+
+        my_bouncing_box.style.left= l+"px";
+        if(l==0){
+            leftEdge=true;
+        }
+        if(l==pageWidth){
+            leftEdge=false;
+        }
+        my_bouncing_box.style.top= t+"px";
+        if(t==0){
+            topEdge=true;
+        }
+        if(t==pageHeight){
+            topEdge=false;
+        }
+        
+    }
+  </script>
+</html>
