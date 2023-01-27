@@ -30,7 +30,7 @@ If the box is moving bottom-right:
 We let you choose the speed rate for the movement of the box. Between 0.3 and 1 second seems to be good values.
 
 You cannot change the value of the html, moving the box needs to be done using javascript. (Yes, JQuery is not allowed yet.)
-
+```
 $>cat index.html
 <html style='background-color: black'>
   <div id="my_bouncing_box" style= "background-color: blue; border-radius: 3px; position: absolute; left: 0px; top: 0px; min-width: 100px; min-height: 100px; text-align: center; font-weight: bold; color: #999;" >Not loaded</div>
@@ -39,6 +39,7 @@ $>cat index.html
   </script>
 </html>
 $>
+```
 You don't have to handle any screen resizing.
 Do NOT use canvas tag.
 
