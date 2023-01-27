@@ -13,18 +13,20 @@ For each exercise, you will have to create a folder and in this folder, you will
 | `Submit file` |	`app.js`|
 
 ## Description
-Create a backend app with light web framework (javascript you will use express, ruby you will use sinatra, python you will use flask)
+Create a backend app with light web framework (javascript you will use `express`, ruby you will use `sinatra`, python you will use `flask`)
 
-You don't need to create a database, just store the information hard coded inside your file.
+You don't need to create a database, just store the information `hard coded` inside your file.
 
 In order to find all the information needed, you will have to search online. Wikipedia, Google and Fan's website will have all the information you need for this project! :)
 
-Part I
+## Part I
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 It will have a route GET on /. This action will give randomly (in a pool of at least 20) a name of a song from Frank Sinatra.
-Wikipedia Page
+[Wikipedia Page](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Frank_Sinatra)
 
-Example00
-
+## Example00
+```
 $>curl -i http://web-XXXXXXXXX.docode.YYYY.qwasar.io
 HTTP/1.1 200 OK
 Content-Type: text/html;charset=utf-8
@@ -35,6 +37,7 @@ Content-Length: 19
 
 New York, New York
 $>
+```
 Example01
 
 $>curl http://web-XXXXXXXXX.docode.YYYY.qwasar.io
