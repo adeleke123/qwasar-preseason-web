@@ -1,15 +1,18 @@
-My First Backend
+## My First Backend
 Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under submit directory and specific file names for each exercise are also provided at the beginning of each exercise under submit file(s).
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
 
-My First Backend	
-Submit directory	.
-Submit file	app.js
-Description
-Description
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| My First Backend |      |
+| ---------------- | ---- |
+| Submit directory	| .   |
+| `Submit file` |	`app.js`|
+
+## Description
 Create a backend app with light web framework (javascript you will use express, ruby you will use sinatra, python you will use flask)
 
 You don't need to create a database, just store the information hard coded inside your file.
