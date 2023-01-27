@@ -38,32 +38,36 @@ Content-Length: 19
 New York, New York
 $>
 ```
-Example01
-
+## Example01
+```
 $>curl http://web-XXXXXXXXX.docode.YYYY.qwasar.io
 My Way
 $>
-Part II
-Continue to build your backend app.js.
-This time we will add multiple pages or routes:
+```
+## Part II
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-GET on /. This action will give randomly (in a pool of at least 20) a name of a song from Frank Sinatra.
-Wikipedia Page
+Continue to build your backend `app.js`
+This time we will add multiple `pages` or `routes`:
 
-GET on /birth_date. This action will give Frank Sinatra birth date.
+`GET` on `/`. This action will give randomly (in a pool of at least 20) a name of a song from `Frank Sinatra`.
+[Wikipedia Page](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Frank_Sinatra)
 
-GET on /birth_city. This action will give Frank Sinatra birth city.
+`GET` on `/birth_date`. This action will give `Frank Sinatra` birth date.
 
-GET on /wives. This action will give all the name of Frank Sinatra wife.
+`GET` on `/birth_city`. This action will give `Frank Sinatra` birth city.
 
-Format:
+`GET` on `/wives`. This action will give all the name of `Frank Sinatra` wife.
+
+## Format:
 wife1, wife2, wife3, wife4
 
-GET on /picture. This action will redirect to Frank Sinatra's picture.
+`GET` on `/picture`. This action will `redirect to` Frank Sinatra's picture.
+
 (https://en.wikipedia.org/wiki/Frank_Sinatra#/media/File:Frank_Sinatra2,_Pal_Joey.jpg)
 
-Example00
-
+## Example00
+```
 $>curl -i http://web-XXXXXXXXX.docode.YYYY.qwasar.io
 HTTP/1.1 200 OK
 Content-Type: text/html;charset=utf-8
@@ -74,12 +78,16 @@ Content-Length: 19
 
 New York, New York
 $>
-Example01
-
+```
+## Example01
+```
 $>curl http://web-XXXXXXXXX.docode.YYYY.qwasar.io
 My Way
 $>
-Part III
+```
+## Part III
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Continue to build your backend app.js, in this last part we will add two more routes:
 
 GET on /public. This action will print "Everybody can see this page"
