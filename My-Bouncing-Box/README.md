@@ -1,21 +1,25 @@
-My Bouncing Box
+## My Bouncing Box
 Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file
 
-For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under submit directory and specific file names for each exercise are also provided at the beginning of each exercise under submit file(s).
+For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. Folder names are provided at the beginning of each exercise under `submit directory` and specific file names for each exercise are also provided at the beginning of each exercise under `submit file(s)`
 
-My Bouncing Box	
-Submit directory	.
-Submit file	index.html
-Description
-Complete an index.html file with the missing javascript code in order to replicate the famous Windows Screensaver - Bounce
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Example - Video
+| My Bouncing Box |       |
+| ----------------| ----- |
+| Submit directory |	. |
+| `Submit file` |	`index.html` |
 
-You need to replace the content of the "div" my_bouncing_box with your Qwasar's login in downcase.
+## Description
+Complete an index.html file with the missing javascript code in order to replicate the famous `Windows Screensaver - Bounce`
 
-You need to move the "div" with the id my_bouncing_box diagonally.
+[Example - Video](https://www.youtube.com/watch?v=NVp6GMHpYvo)
+
+You need to replace the content of the "div" `my_bouncing_box` with your Qwasar's login in downcase.
+
+You need to move the "div" with the id `my_bouncing_box` diagonally.
 
 We defined the (0, 0) coordinate (x, y) at the very top left of your screen.
 The box must move diagonally and each time it reaches a border it will change direction of the border it touched.
