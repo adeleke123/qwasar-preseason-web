@@ -134,7 +134,7 @@ Content-Length: 27
 Everybody can see this page
 $>
 ```
-How can I access my docode server from the browser?
+### How can I access my docode server from the browser?
 
 1 -- Open your server
 Make your server `listening` on 0.0.0.0
