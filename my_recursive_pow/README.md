@@ -35,13 +35,15 @@ Input: 2 && 2
 Output: 
 Return Value: 4
 ```
-Example 01
-
+## Example 01
+```
 Input: 2 && 3
 Output: 
 Return Value: 8
-Example 02
-
+```
+## Example 02
+```
 Input: 2 && 4
 Output: 
 Return Value: 16
+```
